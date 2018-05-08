@@ -1,2 +1,1 @@
-Prueba numero 1 sobre la plataforma de GitHub
-Macas Alcocer Alex Dario
+Macas Alcocer Alex Dario prueba numero 1 en la plataforma de GitHub
